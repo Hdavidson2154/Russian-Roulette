@@ -1,0 +1,34 @@
+\\telmar\users\hh024\my documents\visual studio 2017\Projects\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.exe.config
+\\telmar\users\hh024\my documents\visual studio 2017\Projects\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.exe
+\\telmar\users\hh024\my documents\visual studio 2017\Projects\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.pdb
+\\telmar\users\hh024\my documents\visual studio 2017\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.csprojResolveAssemblyReference.cache
+\\telmar\users\hh024\my documents\visual studio 2017\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.Properties.Resources.resources
+\\telmar\users\hh024\my documents\visual studio 2017\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.csproj.GenerateResource.Cache
+\\telmar\users\hh024\my documents\visual studio 2017\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.exe
+\\telmar\users\hh024\my documents\visual studio 2017\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.pdb
+\\telmar\users\hh024\my documents\visual studio 2017\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.HighScores.resources
+\\telmar\users\hh024\my documents\visual studio 2017\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.Menu.resources
+\\telmar\users\hh024\my documents\visual studio 2017\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.Game.resources
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette\Russian Roulette\bin\Debug\Interop.WMPLib.dll
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette\Russian Roulette\bin\Debug\AxInterop.WMPLib.dll
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette\Russian Roulette\obj\Debug\Interop.WMPLib.dll
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette\Russian Roulette\obj\Debug\AxInterop.WMPLib.dll
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.csproj.ResolveComReference.cache
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.csprojResolveAssemblyReference.cache
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\obj\Debug\Interop.WMPLib.dll
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\obj\Debug\AxInterop.WMPLib.dll
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.csproj.ResolveComReference.cache
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.HighScores.resources
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.Menu.resources
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.Game.resources
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.Properties.Resources.resources
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.csproj.GenerateResource.Cache
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.exe
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.pdb
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.exe.config
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.exe
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.pdb
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\bin\Debug\Interop.WMPLib.dll
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\bin\Debug\AxInterop.WMPLib.dll
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.Lose_Screen.resources
+\\telmar\users\HH024\My Documents\Visual Studio 2017\Projects\Russian Roulette (2)\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.WinScreen.resources
